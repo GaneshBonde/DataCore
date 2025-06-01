@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/SocialPreviews.jpg" alt="projects"/>
+  <img src="./images/SocialPreviews.jpg"/>
 </p>
 
 
