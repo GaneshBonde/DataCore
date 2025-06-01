@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" target="_blank"><img src="./images/SocialPreviews.jpg" alt="projects"/></a>
+</p>
+
+
 # DataCore
 This is an open source project to create new SQL Database. The name of the database is DataCore. The database would be faster than any existing database. The database would be using GPU for execution.
 
