@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_blank"><img src="./images/SocialPreviews.jpg" alt="projects"/></a>
+  <img src="./images/SocialPreviews.jpg" alt="projects"/>
 </p>
 
 
